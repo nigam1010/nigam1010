@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects on cyber security
 - 📫 How to reach me karinigam03@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love my coffee with two sugar cubes heheh!
 
 <!---
